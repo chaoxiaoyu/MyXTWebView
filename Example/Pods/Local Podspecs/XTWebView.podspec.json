@@ -3,7 +3,7 @@
   "version": "0.1",
   "summary": "A custom webview for pay and share with JS.",
   "description": "A custom webview for pay and share with JS",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/XTWebView",
+  "homepage": "https://github.com/chaoxiaoyu/MyXTWebView",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "cxy": "2445879918@qq.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/XTWebView.git",
+    "git": "https://github.com/chaoxiaoyu/MyXTWebView.git",
     "tag": "0.1"
   },
   "platforms": {

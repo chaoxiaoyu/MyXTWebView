@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'XTWebView_Example' do
+  pod 'XTWebView', :path => '../'
+
+  target 'XTWebView_Tests' do
+    inherit! :search_paths
+
+    pod 'Kiwi'
+  pod 'FBSnapshotTestCase'
+  end
+end

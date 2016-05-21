@@ -1,0 +1,33 @@
+PODS:
+  - iOS-AlipaySDK (3.0.2):
+    - iOS-AlipaySDK/Core (= 3.0.2)
+  - iOS-AlipaySDK/Core (3.0.2)
+  - Kiwi (2.4.0)
+  - MBProgressHUD (0.9.2)
+  - TencentOpenApiSDK (2.9.5):
+    - TencentOpenApiSDK/Basic (= 2.9.5)
+  - TencentOpenApiSDK/Basic (2.9.5)
+  - Weixin (1.6.2)
+  - XTWebView (0.1):
+    - iOS-AlipaySDK (= 3.0.2)
+    - MBProgressHUD (= 0.9.2)
+    - TencentOpenApiSDK (= 2.9.5)
+    - Weixin (= 1.6.2)
+
+DEPENDENCIES:
+  - Kiwi
+  - XTWebView (from `../`)
+
+EXTERNAL SOURCES:
+  XTWebView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  iOS-AlipaySDK: 97d1c1fe06083e5bf2d9b56981cf469eeb508b78
+  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  TencentOpenApiSDK: a0d7716edd6eb438d65828168e8e5137301b436d
+  Weixin: 032f4b1def7c7c3d7535809ba25107d5cdc9fccd
+  XTWebView: 769203287623df766fec519b98828a8826ef5d26
+
+COCOAPODS: 0.39.0

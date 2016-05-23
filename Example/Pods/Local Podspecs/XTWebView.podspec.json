@@ -13,19 +13,19 @@
   },
   "source": {
     "git": "https://github.com/chaoxiaoyu/MyXTWebView.git",
-    "tag": "0.1"
+    "commit": "f26321eb2b1038deafd640d676b97ee8d7ee1a0a"
   },
   "platforms": {
     "ios": "7.0"
   },
   "requires_arc": true,
-  "source_files": "Pods/Classes/**/*.{h,m}",
+  "source_files": "Pod/Classes/**/*.{h,m}",
   "resource_bundles": {
     "XTWebView": [
-      "Pods/Assets/*.png"
+      "Pod/Assets/*.png"
     ]
   },
-  "public_header_files": "Pods/Classes/**/*.h",
+  "public_header_files": "Pod/Classes/**/*.h",
   "frameworks": [
     "UIKit",
     "AVFoundation",

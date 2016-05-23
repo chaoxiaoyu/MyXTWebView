@@ -25,23 +25,25 @@ A custom webview for pay and share with JS
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'cxy' => '2445879918@qq.com' }
-  s.source           = { :git => 'https://github.com/chaoxiaoyu/MyXTWebView.git', :tag => s.version}
+  s.source           = { :git => 'https://github.com/chaoxiaoyu/MyXTWebView.git', :commit=> "f26321eb2b1038deafd640d676b97ee8d7ee1a0a"}
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '7.0'
   s.requires_arc = true
 
-s.source_files = 'Pods/Classes/**/*.{h,m}'
+  s.source_files = 'Pod/Classes/**/*.{h,m}'
+
 
   s.resource_bundles = {
-     'XTWebView' => ['Pods/Assets/*.png']
+     'XTWebView' => ['Pod/Assets/*.png']
    }
 
-  s.public_header_files = 'Pods/Classes/**/*.h'
-s.frameworks = 'UIKit', 'AVFoundation', 'SystemConfiguration', 'JavaScriptCore'
-# s.libraries = 'c++.tbd', 'sqlite3.0.tbd', 'z.tbd'
-s.dependency 'iOS-AlipaySDK', '3.0.2'
-s.dependency 'MBProgressHUD', '0.9.2'
-s.dependency 'TencentOpenApiSDK', '2.9.5'
-s.dependency 'Weixin', '1.6.2'
+  s.public_header_files = 'Pod/Classes/**/*.h'
+
+  s.frameworks = 'UIKit', 'AVFoundation', 'SystemConfiguration', 'JavaScriptCore'
+  # s.libraries = 'c++.tbd', 'sqlite3.0.tbd', 'z.tbd'
+  s.dependency 'iOS-AlipaySDK', '3.0.2'
+  s.dependency 'MBProgressHUD', '0.9.2'
+  s.dependency 'TencentOpenApiSDK', '2.9.5'
+  s.dependency 'Weixin', '1.6.2'
 end

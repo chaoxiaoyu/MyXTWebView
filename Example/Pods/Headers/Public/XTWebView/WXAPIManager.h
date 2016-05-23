@@ -1,1 +1,1 @@
-../../../../../Pods/Classes/XTWebView/WeChatShareAndPay/WXAPIManager.h
+../../../../../Pods/Classes/WeChatShareAndPay/WXAPIManager.h

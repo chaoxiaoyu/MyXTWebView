@@ -1,0 +1,53 @@
+//
+//  Alipay.m
+//  XTWebView
+//
+//  Created by abc on 31/3/16.
+//  Copyright © 2016年 com.xiangtian. All rights reserved.
+//
+
+#import "Alipay.h"
+
+@implementation Alipay
+
+- (void)payByAlipay:(NSString *)orderStr  //支付宝快捷支付
+{
+//      NSLog(@"payByAlipay");
+//      JSValue *jsOrderStr = self.jsContext[@"Alipay"];
+//      NSString *orderStr = [[jsOrderStr callWithArguments:nil] toString];
+      dispatch_async(dispatch_get_main_queue(), ^{
+            [[AlipaySDK defaultService] payOrder:orderStr fromScheme:@"aishangzhoukoualipay" callback:^(NSDictionary *resultDic) {
+                  NSString *resultStr = nil;
+                  if ([resultDic[@"resultStatus"] isEqualToString:@"9000"])
+                  {
+                        resultStr = @"订单支付成功";
+                  }
+                  
+                  if ([resultDic[@"resultStatus"] isEqualToString:@"8000"])
+                  {
+                        resultStr = @"正在处理中！";
+                  }
+                  
+                  if ([resultDic[@"resultStatus"] isEqualToString:@"4000"])
+                  {
+                        resultStr = @"订单支付失败！";
+                  }
+                  
+                  if ([resultDic[@"resultStatus"] isEqualToString:@"6001"])
+                  {
+                        resultStr = @"用户中途取消！";
+                  }
+                  
+                  if ([resultDic[@"resultStatus"] isEqualToString:@"6002"])
+                  {
+                        resultStr = @"网络连接出错！";
+                  }
+                  UIAlertView *alertView = [[UIAlertView alloc] initWithTitle:@"支付结果" message:resultStr delegate:self cancelButtonTitle:@"确定" otherButtonTitles:nil, nil];
+                  [alertView show];
+                  
+            }];
+ 
+      });
+}
+
+@end

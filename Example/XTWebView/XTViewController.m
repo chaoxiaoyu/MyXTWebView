@@ -16,8 +16,9 @@
 
 - (void)viewDidLoad
 {
-    [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+      [super viewDidLoad];
+      NSURL *url = [[NSBundle mainBundle] URLForResource:@"test" withExtension:@"html"];
+      [self.webView loadRequest:[NSURLRequest requestWithURL:url]];
 }
 
 - (void)didReceiveMemoryWarning

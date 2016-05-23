@@ -1,1 +1,1 @@
-../../../../../Pods/Classes/XTWebView/Manager/JSExportManager+JSOpenNewWindow.h
+../../../../../Pods/Classes/Manager/JSExportManager+JSOpenNewWindow.h

@@ -7,7 +7,8 @@
 //
 
 @import UIKit;
+#import "XTWebViewController.h"
 
-@interface XTViewController : UIViewController
+@interface XTViewController : XTWebViewController
 
 @end

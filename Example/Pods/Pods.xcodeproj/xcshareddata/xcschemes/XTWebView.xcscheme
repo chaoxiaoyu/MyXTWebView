@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '5B876039677FD376D0778B12'
+               BlueprintIdentifier = '6F3B1A98EB85192571A8664F'
                BlueprintName = 'XTWebView'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'libXTWebView.a'>

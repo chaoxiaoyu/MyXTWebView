@@ -1,1 +1,1 @@
-../../../../../Pods/Classes/Alipay/Alipay.h
+../../../../../XTWebView/Classes/Alipay/Alipay.h

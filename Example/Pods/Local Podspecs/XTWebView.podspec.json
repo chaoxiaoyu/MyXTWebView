@@ -1,7 +1,7 @@
 {
   "name": "XTWebView",
   "version": "0.1",
-  "summary": "A custom webview for pay and share with JS.",
+  "summary": "A custom webview.",
   "description": "A custom webview for pay and share with JS",
   "homepage": "https://github.com/chaoxiaoyu/MyXTWebView",
   "license": {
@@ -19,13 +19,12 @@
     "ios": "7.0"
   },
   "requires_arc": true,
-  "source_files": "Pods/Classes/**/*.{h,m}",
+  "source_files": "XTWebView/Classes/**/*",
   "resource_bundles": {
     "XTWebView": [
-      "Pods/Assets/*.png"
+      "XTWebView/Assets/*.png"
     ]
   },
-  "public_header_files": "Pods/Classes/**/*.h",
   "frameworks": [
     "UIKit",
     "AVFoundation",

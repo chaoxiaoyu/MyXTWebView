@@ -1,1 +1,1 @@
-../../../../../Pods/Classes/qqShare/ShareToQQZone.h
+../../../../../XTWebView/Classes/qqShare/ShareToQQZone.h

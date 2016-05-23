@@ -1,1 +1,1 @@
-../../../../../Pods/Classes/WeChatShareAndPay/ShareToWeiChat.h
+../../../../../XTWebView/Classes/WeChatShareAndPay/ShareToWeiChat.h

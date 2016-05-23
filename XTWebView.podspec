@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'XTWebView'
   s.version          = '0.1'
-  s.summary          = 'A custom webview for pay and share with JS.'
+  s.summary          = 'A custom webview.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -31,17 +31,18 @@ A custom webview for pay and share with JS
   s.ios.deployment_target = '7.0'
   s.requires_arc = true
 
-s.source_files = 'Pods/Classes/**/*.{h,m}'
+  s.source_files = 'XTWebView/Classes/**/*'
 
   s.resource_bundles = {
-     'XTWebView' => ['Pods/Assets/*.png']
+     'XTWebView' => ['XTWebView/Assets/*.png']
    }
 
-  s.public_header_files = 'Pods/Classes/**/*.h'
-s.frameworks = 'UIKit', 'AVFoundation', 'SystemConfiguration', 'JavaScriptCore'
-# s.libraries = 'c++.tbd', 'sqlite3.0.tbd', 'z.tbd'
-s.dependency 'iOS-AlipaySDK', '3.0.2'
-s.dependency 'MBProgressHUD', '0.9.2'
-s.dependency 'TencentOpenApiSDK', '2.9.5'
-s.dependency 'Weixin', '1.6.2'
+  # s.public_header_files = 'XTWebView/Classes/**/*.h'
+
+  s.frameworks = 'UIKit', 'AVFoundation', 'SystemConfiguration', 'JavaScriptCore'
+  # s.libraries = 'c++.tbd', 'sqlite3.0.tbd', 'z.tbd'
+  s.dependency 'iOS-AlipaySDK', '3.0.2'
+  s.dependency 'MBProgressHUD', '0.9.2'
+  s.dependency 'TencentOpenApiSDK', '2.9.5'
+  s.dependency 'Weixin', '1.6.2'
 end

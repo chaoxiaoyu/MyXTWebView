@@ -22,6 +22,19 @@
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
 		</dict>
+		<key>0133A79EBA83D3DA1C2D996330ECC56C</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>XTWebView-prefix.pch</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>013ED832B6B246DAB484BC886523CF98</key>
 		<dict>
 			<key>fileRef</key>
@@ -61,28 +74,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>026FFFE6EFB85ED2F8D3E0208B3E7CA3</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>88DADE1FBD89BB78DD58EF260627DBB8</string>
-				<string>66693A530B3D0B94B597873DCD99520A</string>
-				<string>A057DC1D24D3467150585D71733624A8</string>
-				<string>6E125FC1FC1719D230AF9F3BEA3B249B</string>
-				<string>4B2FE617282C90F1386BC026B591905C</string>
-				<string>F8559F0CE7D9BA84A548C58275A044E9</string>
-				<string>4F280E0DC1161D183E8D63722BB938FC</string>
-				<string>E97CCC7B98E21DC512A35D4A3CB4E0D9</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>WeChatShareAndPay</string>
-			<key>path</key>
-			<string>WeChatShareAndPay</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>02C56EAD7452C22F7AF314ED44D3CB30</key>
 		<dict>
 			<key>buildConfigurations</key>
@@ -100,7 +91,7 @@
 		<key>02CBA3BD149C7587C0293FA5DCDFD826</key>
 		<dict>
 			<key>fileRef</key>
-			<string>62F809FAC4CED5CBD78EF3AA77C30836</string>
+			<string>97F65CDA37CF75E7151B0E689108ECA1</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -175,7 +166,7 @@
 		<key>038391840ACE5BBF52D46362E88C17ED</key>
 		<dict>
 			<key>fileRef</key>
-			<string>5C1CE289DC1D8A89E71DC7538AEA11C9</string>
+			<string>FA062D9CD2DC9EBE3236050E3A7EB8F2</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -415,20 +406,9 @@
 		<key>03F366BA0CCBB44F212202E00630223A</key>
 		<dict>
 			<key>fileRef</key>
-			<string>F7FE08DEFB142D02CB41C4FCA859028E</string>
+			<string>7B7DDF1A3E493D82DCAFCE0AF4C092E5</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-		</dict>
-		<key>03FC071FDC76929680AD75BE4AC07553</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>weixin.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>04114E3BD7679A7A0DA3144D8AD08524</key>
 		<dict>
@@ -454,6 +434,19 @@
 				<key>COMPILER_FLAGS</key>
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
+		</dict>
+		<key>058267BD822E3CD1D6A6C8430BAA9BBA</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>NextViewController.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>058B2682FBD1875F19EC02BDBE81CC62</key>
 		<dict>
@@ -512,7 +505,7 @@
 		<key>06CB75A09A5A07EB8F9211CA033BBDF2</key>
 		<dict>
 			<key>fileRef</key>
-			<string>03FC071FDC76929680AD75BE4AC07553</string>
+			<string>34B0101F26CCBF8D226D45CDA9BCF497</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -565,23 +558,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>085A07424A163275D2FBF10A09018452</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>EDDCDC0542CBB01099B59E3366346D57</string>
-				<string>62F809FAC4CED5CBD78EF3AA77C30836</string>
-				<string>12E2DC5D0AF5682132C507EE11E795F0</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>Example/Pods/Target Support Files/XTWebView</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>08869B89D9FDBEB83CE52A630D659EC2</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -597,16 +573,16 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>091DD4AEEECB7FA4EF7322470F42E16C</key>
+		<key>08DEDCBD0B479C15C2158D6619AAB9F4</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
+			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>NextViewController.m</string>
+			<string>WXAPIManager.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -712,7 +688,7 @@
 		<key>0D2EA71CC246D4DD7D323D58B5EFD523</key>
 		<dict>
 			<key>fileRef</key>
-			<string>6E125FC1FC1719D230AF9F3BEA3B249B</string>
+			<string>94A6D1255B5CAB61C867849965EC4FD3</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -877,38 +853,25 @@
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
 		</dict>
-		<key>12E2DC5D0AF5682132C507EE11E795F0</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>XTWebView-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>12F15FF47A01DAFFA9BC33ED8EADE64A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>ShareToQQ.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>1308A8B75831D10C9C027A58F4C9B523</key>
 		<dict>
 			<key>fileRef</key>
-			<string>7A1E163C0F172D471DC7B8C85523E9E9</string>
+			<string>28DBF2CBD723A6CC3357F836A4B9195B</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+		</dict>
+		<key>133CBA39B0A0CA15D2CE2FB4B1AFE046</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>WXAPIManager.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>13512F4009351F02E3B02EEFB96FA69F</key>
 		<dict>
@@ -970,7 +933,7 @@
 		<key>177CCAFC935B94F8F133CA6410BDA793</key>
 		<dict>
 			<key>fileRef</key>
-			<string>2CED4D9290C0E678278A1DA13D175B7D</string>
+			<string>A447020B30A290E76A366E34092861FE</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -1057,17 +1020,6 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>1A13476F49F0148A37946D340DA3380D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>weixin@2x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>1A54D6D61BF10E52541E30759C3406C0</key>
 		<dict>
 			<key>fileRef</key>
@@ -1106,51 +1058,20 @@
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
 		</dict>
-		<key>1C4CF15D466232CC56C2F30E2CCED633</key>
+		<key>1C5806E06494F7E21D1DF686162A4A07</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>DBEB985FFC92D4BF67AEC1A86D87B056</string>
-				<string>60939816A3649AD98D1B16F7906742CF</string>
-				<string>BE4BEC8DB10289C49535ED876454B83C</string>
-				<string>4CE15CBF3BB4E0614C2CE53EC857CACF</string>
-				<string>767FF5FCE6381AA716C15DE1120B166C</string>
-				<string>026FFFE6EFB85ED2F8D3E0208B3E7CA3</string>
+				<string>2D842E3F93C6F3FEA5738567C64AD8F1</string>
+				<string>97F65CDA37CF75E7151B0E689108ECA1</string>
+				<string>0133A79EBA83D3DA1C2D996330ECC56C</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
 			<key>name</key>
-			<string>Classes</string>
+			<string>Support Files</string>
 			<key>path</key>
-			<string>Classes</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1C72F9671E8E976A99A5D91B5ADCE02F</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>1C4CF15D466232CC56C2F30E2CCED633</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods</string>
-			<key>path</key>
-			<string>Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1CA4A1A4F92159C694F4E9F0804ABEAD</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Alipay.m</string>
+			<string>Example/Pods/Target Support Files/XTWebView</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -1324,6 +1245,21 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>1FACC89CC12C166CF8CDC7E98161B1AB</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>31F4CB1AA6DD1CD471798B105B88ED78</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>XTWebView</string>
+			<key>path</key>
+			<string>XTWebView</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>1FB6B599B8DFA3F141E360915F270701</key>
 		<dict>
 			<key>isa</key>
@@ -1437,7 +1373,7 @@
 		<dict>
 			<key>children</key>
 			<array>
-				<string>5E813E59C3E01FEA445F0F963A23F7EC</string>
+				<string>739863D710AFC42EE26A5807F36BA268</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
@@ -1446,10 +1382,23 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>250D66675E0D29FB25F54238282469CF</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>XTWebViewController.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>250F436F641DE26EB08C5B6919AF8426</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>EDDCDC0542CBB01099B59E3366346D57</string>
+			<string>2D842E3F93C6F3FEA5738567C64AD8F1</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
@@ -1483,23 +1432,10 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>25AE7A88AAB090ACF53FD7BA6717E853</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>ShareToQQ.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>263BE239A83B0ADB2902AE9825606EFD</key>
 		<dict>
 			<key>fileRef</key>
-			<string>4A57A1C8664E4F12629B2BDF1131FCAB</string>
+			<string>7F15988E675E1BF8823CC62BB75D63CA</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -1513,7 +1449,7 @@
 		<key>2676DC1ED6941394C974442662C5C36C</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>EDDCDC0542CBB01099B59E3366346D57</string>
+			<string>2D842E3F93C6F3FEA5738567C64AD8F1</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
@@ -1588,6 +1524,17 @@
 			<string>libPods-XTWebView_Example.a</string>
 			<key>sourceTree</key>
 			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>28DBF2CBD723A6CC3357F836A4B9195B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>qqZone@2x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>290C0B7F5608A4CFD2E890AE196C63F5</key>
 		<dict>
@@ -1673,7 +1620,7 @@
 		<key>2B40DBDC4105135B1363010D31672BE4</key>
 		<dict>
 			<key>fileRef</key>
-			<string>7F3B1593C06874550A351432AD9CABB2</string>
+			<string>9E05B3B74C1CA71747AE5826D5CEE6BA</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -1734,19 +1681,6 @@
 			<key>targetProxy</key>
 			<string>04114E3BD7679A7A0DA3144D8AD08524</string>
 		</dict>
-		<key>2CED4D9290C0E678278A1DA13D175B7D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>JSExportManager+JSShareExport.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>2D61E414B6EF67FC37F0E7418FD1AB1E</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -1759,6 +1693,19 @@
 			<string>KWEqualMatcher.m</string>
 			<key>path</key>
 			<string>Classes/Matchers/KWEqualMatcher.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2D842E3F93C6F3FEA5738567C64AD8F1</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>XTWebView.xcconfig</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -1794,7 +1741,7 @@
 		<key>2DC0C63A7F74261381941FA69D58F3AF</key>
 		<dict>
 			<key>fileRef</key>
-			<string>3B681A5CE2ACFEC6601797DF0F1AAB08</string>
+			<string>886782E8F1F71B7B30E495A7A9B2DBC8</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -1875,6 +1822,19 @@
 				<key>COMPILER_FLAGS</key>
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
+		</dict>
+		<key>2F08184DE86A2C9B20CF7240239E8472</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>ShareToQQ.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>2F2455CE0DCE310230C8572BE8B4152B</key>
 		<dict>
@@ -1973,18 +1933,49 @@
 			<key>sourceTree</key>
 			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
-		<key>31CAF14D85EC8FA933A918031CD8BA93</key>
+		<key>319D20E962E9C5A753960B1FC8B282D6</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>JSExportManager.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>31F4CB1AA6DD1CD471798B105B88ED78</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>330EBB9E13A43D8A74A83813F90AD9ED</string>
+				<string>AA57F028A528846030C93BC083459E3B</string>
+				<string>F37635320CD4C64BA755B5F83EDFD626</string>
+				<string>68EDCCDE39CDB570E399935D3EB0E763</string>
+				<string>28DBF2CBD723A6CC3357F836A4B9195B</string>
+				<string>34B0101F26CCBF8D226D45CDA9BCF497</string>
+				<string>9A04D711B7DB11D729E2DBACC25F34D7</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
 			<key>name</key>
-			<string>Pods</string>
+			<string>Assets</string>
 			<key>path</key>
-			<string>Pods</string>
+			<string>Assets</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>32176B10BC503DBA8911BD85F86AA28A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>XTWebView.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -2016,26 +2007,6 @@
 					<string>Public</string>
 				</array>
 			</dict>
-		</dict>
-		<key>330EBB9E13A43D8A74A83813F90AD9ED</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>AE55B87E55D236CD8211C02906D91ADD</string>
-				<string>72860661FC5C5F4142C251981BA596F3</string>
-				<string>4E161486C224CB3A2375A37DFB5F6EF4</string>
-				<string>7A1E163C0F172D471DC7B8C85523E9E9</string>
-				<string>03FC071FDC76929680AD75BE4AC07553</string>
-				<string>1A13476F49F0148A37946D340DA3380D</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Assets</string>
-			<key>path</key>
-			<string>Assets</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>335E0DA9096ED7EA292ADFA0E520E8A9</key>
 		<dict>
@@ -2074,6 +2045,17 @@
 			<string>KWBeforeEachNode.h</string>
 			<key>path</key>
 			<string>Classes/Nodes/KWBeforeEachNode.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>34B0101F26CCBF8D226D45CDA9BCF497</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>weixin.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -2191,6 +2173,44 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>388F34D824748867E2F7FF39AE29EF09</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>6500D551AEF429FA241FA7C427ED3BFA</string>
+				<string>D37CBC9B7BBC5727866ECBF5DB46942F</string>
+				<string>3FE612A0636A86B0C0461B95131D72DB</string>
+				<string>94A6D1255B5CAB61C867849965EC4FD3</string>
+				<string>5048F1770870F6A8E887D84745220666</string>
+				<string>FB7EF09CF8D96752E46AF19F13619C3F</string>
+				<string>08DEDCBD0B479C15C2158D6619AAB9F4</string>
+				<string>133CBA39B0A0CA15D2CE2FB4B1AFE046</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>WeChatShareAndPay</string>
+			<key>path</key>
+			<string>WeChatShareAndPay</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>3915A8B57B59C424ADB061BAB5C7B473</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>32176B10BC503DBA8911BD85F86AA28A</string>
+				<string>6E453051ACFB6BA283A166D1F5E09730</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>View</string>
+			<key>path</key>
+			<string>View</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>39C42C08A549C0D034F63AA18B54388D</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -2269,22 +2289,9 @@
 		<key>3B46BDFB0296B5B69ECF8494A84F2488</key>
 		<dict>
 			<key>fileRef</key>
-			<string>4E161486C224CB3A2375A37DFB5F6EF4</string>
+			<string>68EDCCDE39CDB570E399935D3EB0E763</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-		</dict>
-		<key>3B681A5CE2ACFEC6601797DF0F1AAB08</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>JSExportManager+JSPayExport.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>3BC0A3EBF4E627DA4F209523652D9BD7</key>
 		<dict>
@@ -2468,6 +2475,19 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>3FE612A0636A86B0C0461B95131D72DB</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>ShareToWeiChat.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>40A404471713D7784A6C9BE0A51A31E8</key>
 		<dict>
 			<key>fileRef</key>
@@ -2485,7 +2505,7 @@
 		<key>4134864CF6798F507C74AC3818B542F3</key>
 		<dict>
 			<key>fileRef</key>
-			<string>A057DC1D24D3467150585D71733624A8</string>
+			<string>3FE612A0636A86B0C0461B95131D72DB</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -2499,7 +2519,7 @@
 		<key>418F91EB4028752296659E967EE61CAD</key>
 		<dict>
 			<key>fileRef</key>
-			<string>F5E17B09ADD9765463CF815E00523839</string>
+			<string>EC51BCD06F0ABC4330D3629EBB1B8015</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -2523,7 +2543,7 @@
 		<key>422F0FCECE572718F4A88E5A439B0199</key>
 		<dict>
 			<key>fileRef</key>
-			<string>66693A530B3D0B94B597873DCD99520A</string>
+			<string>D37CBC9B7BBC5727866ECBF5DB46942F</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -2802,19 +2822,6 @@
 			<key>productType</key>
 			<string>com.apple.product-type.library.static</string>
 		</dict>
-		<key>4A57A1C8664E4F12629B2BDF1131FCAB</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>XTWebViewController.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>4AEC7ECD8DED724CF1C7E86D39566D6D</key>
 		<dict>
 			<key>fileRef</key>
@@ -2855,19 +2862,6 @@
 			<string>KWAny.h</string>
 			<key>path</key>
 			<string>Classes/Core/KWAny.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4B2FE617282C90F1386BC026B591905C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>WechatPay.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -2957,35 +2951,6 @@
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
 		</dict>
-		<key>4CE15CBF3BB4E0614C2CE53EC857CACF</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>12F15FF47A01DAFFA9BC33ED8EADE64A</string>
-				<string>25AE7A88AAB090ACF53FD7BA6717E853</string>
-				<string>B0A4FC2F01510C08018AE41AAAD9896D</string>
-				<string>F7FE08DEFB142D02CB41C4FCA859028E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>qqShare</string>
-			<key>path</key>
-			<string>qqShare</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4E161486C224CB3A2375A37DFB5F6EF4</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>qqicon@2x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>4E3E25314AC36E8F1BE48F3C8D4030CB</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -3026,19 +2991,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>4F280E0DC1161D183E8D63722BB938FC</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>WXAPIManager.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>500382144EA1101672A9AF37723E1DBC</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -3067,6 +3019,19 @@
 					<string>Public</string>
 				</array>
 			</dict>
+		</dict>
+		<key>5048F1770870F6A8E887D84745220666</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>WechatPay.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>506C4EEC6E4D09A49DE8683B7045467A</key>
 		<dict>
@@ -3510,32 +3475,6 @@
 				</array>
 			</dict>
 		</dict>
-		<key>5B92A9D0B31592119036903D83806282</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>XTWebViewController.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5C1CE289DC1D8A89E71DC7538AEA11C9</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>JSExportManager+JSOpenNewWindow.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>5D1B473E0B8142358A14CE4BE6CD29FF</key>
 		<dict>
 			<key>fileRef</key>
@@ -3589,23 +3528,6 @@
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>5E813E59C3E01FEA445F0F963A23F7EC</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>1C72F9671E8E976A99A5D91B5ADCE02F</string>
-				<string>D394D2F6E4AA91B215DCD1D61DABB293</string>
-				<string>085A07424A163275D2FBF10A09018452</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>XTWebView</string>
-			<key>path</key>
-			<string>../..</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>5EB4F27B76513AE918BA5AE0868E87C8</key>
 		<dict>
 			<key>fileRef</key>
@@ -3623,7 +3545,7 @@
 		<key>5FAF18AD1F67D5B6BEF97538CCF3C8E1</key>
 		<dict>
 			<key>fileRef</key>
-			<string>72860661FC5C5F4142C251981BA596F3</string>
+			<string>F37635320CD4C64BA755B5F83EDFD626</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -3640,24 +3562,6 @@
 					<string>Public</string>
 				</array>
 			</dict>
-		</dict>
-		<key>60939816A3649AD98D1B16F7906742CF</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>63AE10220D87D524D6CBF4CE17CD9953</string>
-				<string>091DD4AEEECB7FA4EF7322470F42E16C</string>
-				<string>4A57A1C8664E4F12629B2BDF1131FCAB</string>
-				<string>5B92A9D0B31592119036903D83806282</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>BaseViewController</string>
-			<key>path</key>
-			<string>BaseViewController</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>60CA4C54C9B540AB591366C55B77C682</key>
 		<dict>
@@ -3746,19 +3650,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>62F809FAC4CED5CBD78EF3AA77C30836</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>XTWebView-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>63834CECF71D6EC5DECC99587E5DE229</key>
 		<dict>
 			<key>buildConfigurations</key>
@@ -3772,19 +3663,6 @@
 			<string>Release</string>
 			<key>isa</key>
 			<string>XCConfigurationList</string>
-		</dict>
-		<key>63AE10220D87D524D6CBF4CE17CD9953</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>NextViewController.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>6406CD6499255CE131E21086446B70BB</key>
 		<dict>
@@ -3829,7 +3707,7 @@
 		<key>646C8F93483C81224867A6564449AA3D</key>
 		<dict>
 			<key>fileRef</key>
-			<string>091DD4AEEECB7FA4EF7322470F42E16C</string>
+			<string>A4816BCE427BBB44FC36DBBC06F7CAA5</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -3859,6 +3737,41 @@
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
 		</dict>
+		<key>6500D551AEF429FA241FA7C427ED3BFA</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>ShareToWeChatfriends.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>65604FA529CE35610D3916049EFC1EAD</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>319D20E962E9C5A753960B1FC8B282D6</string>
+				<string>676FE32C6A1E45493D7494EA033AC601</string>
+				<string>FA062D9CD2DC9EBE3236050E3A7EB8F2</string>
+				<string>F638A35AA51D326819DEB5FE9034A144</string>
+				<string>886782E8F1F71B7B30E495A7A9B2DBC8</string>
+				<string>EC51BCD06F0ABC4330D3629EBB1B8015</string>
+				<string>A447020B30A290E76A366E34092861FE</string>
+				<string>8503D4C7AF92AADB9E82B639AF8BE1E8</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Manager</string>
+			<key>path</key>
+			<string>Manager</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>65696F6D8418ECB980738470F362A209</key>
 		<dict>
 			<key>containerPortal</key>
@@ -3886,19 +3799,6 @@
 				</array>
 			</dict>
 		</dict>
-		<key>66693A530B3D0B94B597873DCD99520A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>ShareToWeChatfriends.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>666962AB0043BB4C3F1A08545831FB51</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -3924,6 +3824,19 @@
 			<string>NSInvocation+KiwiAdditions.h</string>
 			<key>path</key>
 			<string>Classes/Core/NSInvocation+KiwiAdditions.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>676FE32C6A1E45493D7494EA033AC601</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>JSExportManager.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -3957,10 +3870,21 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>68EDCCDE39CDB570E399935D3EB0E763</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>qqicon@2x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>68F0AA8B99FA5400A669FE162258B133</key>
 		<dict>
 			<key>fileRef</key>
-			<string>976EEBA6903CD45DDD492E00AE49F795</string>
+			<string>319D20E962E9C5A753960B1FC8B282D6</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -3998,19 +3922,6 @@
 					<string>Public</string>
 				</array>
 			</dict>
-		</dict>
-		<key>6A02C14A2BE2D0902D7B5FA9C14C5062</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>JSExportManager+JSShareExport.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>6A3E06377F0DC0AF07CB868CA3B24630</key>
 		<dict>
@@ -4066,22 +3977,9 @@
 		<key>6DF8E9AEA3B18F3A69565A81F7A10CED</key>
 		<dict>
 			<key>fileRef</key>
-			<string>1CA4A1A4F92159C694F4E9F0804ABEAD</string>
+			<string>DC46A9EDABE28147721C174502F3BBD9</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-		</dict>
-		<key>6E125FC1FC1719D230AF9F3BEA3B249B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>ShareToWeiChat.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>6E13F8D65E76E05B273CF43E3C1B2852</key>
 		<dict>
@@ -4109,6 +4007,19 @@
 				<key>COMPILER_FLAGS</key>
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
+		</dict>
+		<key>6E453051ACFB6BA283A166D1F5E09730</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>XTWebView.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>6F50F4B4F162AE1379E5AC00CD7D0828</key>
 		<dict>
@@ -4173,17 +4084,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>72860661FC5C5F4142C251981BA596F3</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>pengyouquan@2x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>72D26C6AC88DB5D27FCF4225CB029084</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -4238,6 +4138,23 @@
 			<string>NSNumber+KiwiAdditions.h</string>
 			<key>path</key>
 			<string>Classes/Core/NSNumber+KiwiAdditions.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>739863D710AFC42EE26A5807F36BA268</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>CB15EB555E44AFBE767D3F9A278486F0</string>
+				<string>1C5806E06494F7E21D1DF686162A4A07</string>
+				<string>9FD407517214E35D1ADF9C2974702CAB</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>XTWebView</string>
+			<key>path</key>
+			<string>../..</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -4330,22 +4247,6 @@
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
 		</dict>
-		<key>767FF5FCE6381AA716C15DE1120B166C</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>EB8BDAD7304D38F77B901D0C9143D950</string>
-				<string>F440296DC2788C85BF515A0F56C51980</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>View</string>
-			<key>path</key>
-			<string>View</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>770BF0617BAB58BCFDB0A5812DA8F895</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -4398,7 +4299,7 @@
 		<key>78FBD974E224C01B2F14BFC32555617F</key>
 		<dict>
 			<key>fileRef</key>
-			<string>4F280E0DC1161D183E8D63722BB938FC</string>
+			<string>08DEDCBD0B479C15C2158D6619AAB9F4</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -4441,17 +4342,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>7A1E163C0F172D471DC7B8C85523E9E9</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>qqZone@2x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>7A720547880FFECFF12EDD5C51C2FC5A</key>
 		<dict>
 			<key>fileRef</key>
@@ -4466,10 +4356,23 @@
 				</array>
 			</dict>
 		</dict>
+		<key>7B7DDF1A3E493D82DCAFCE0AF4C092E5</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>ShareToQQZone.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>7BB51BB9142AD1B5E1D53A9A2179BF4E</key>
 		<dict>
 			<key>fileRef</key>
-			<string>4B2FE617282C90F1386BC026B591905C</string>
+			<string>5048F1770870F6A8E887D84745220666</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -4579,7 +4482,7 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>7F3B1593C06874550A351432AD9CABB2</key>
+		<key>7F15988E675E1BF8823CC62BB75D63CA</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -4588,7 +4491,7 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>Alipay.h</string>
+			<string>XTWebViewController.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -4746,6 +4649,22 @@
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
 		</dict>
+		<key>84B0073C7855D96F8654CE9B85180AFB</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>9E05B3B74C1CA71747AE5826D5CEE6BA</string>
+				<string>DC46A9EDABE28147721C174502F3BBD9</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Alipay</string>
+			<key>path</key>
+			<string>Alipay</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>84C8C07A0C2667E175DA835D049409E7</key>
 		<dict>
 			<key>fileRef</key>
@@ -4759,6 +4678,19 @@
 					<string>Public</string>
 				</array>
 			</dict>
+		</dict>
+		<key>8503D4C7AF92AADB9E82B639AF8BE1E8</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>JSExportManager+JSShareExport.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>85A67E445BB5B1006A8946E7305196F0</key>
 		<dict>
@@ -4847,6 +4779,19 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>886782E8F1F71B7B30E495A7A9B2DBC8</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>JSExportManager+JSPayExport.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>88840CEA0C2D79246E7CB51231B19C32</key>
 		<dict>
 			<key>fileRef</key>
@@ -4858,19 +4803,6 @@
 				<key>COMPILER_FLAGS</key>
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
-		</dict>
-		<key>88DADE1FBD89BB78DD58EF260627DBB8</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>ShareToWeChatfriends.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>8922F1AB68C827B4648B16BD47DD021D</key>
 		<dict>
@@ -5003,6 +4935,24 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>8D4FEEF21AE400DA5B8CF0A0F7E6BE93</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>C925DC3CF36EF850B94E4207868A3796</string>
+				<string>2F08184DE86A2C9B20CF7240239E8472</string>
+				<string>C4C413027F2FD553484A41E5D3ED8C3B</string>
+				<string>7B7DDF1A3E493D82DCAFCE0AF4C092E5</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>qqShare</string>
+			<key>path</key>
+			<string>qqShare</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>8D514F1D9F1A374616E1DAEF47AF10E9</key>
 		<dict>
 			<key>fileRef</key>
@@ -5092,7 +5042,7 @@
 		<key>927108A2EC3BF78BF56CA9A1E5584D14</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>EDDCDC0542CBB01099B59E3366346D57</string>
+			<string>2D842E3F93C6F3FEA5738567C64AD8F1</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
@@ -5114,7 +5064,7 @@
 		<key>92F353FA479ED07D01F83E76F1CD2ACE</key>
 		<dict>
 			<key>fileRef</key>
-			<string>F440296DC2788C85BF515A0F56C51980</string>
+			<string>6E453051ACFB6BA283A166D1F5E09730</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -5174,6 +5124,37 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>949595056358808659987B31AB1F0421</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>058267BD822E3CD1D6A6C8430BAA9BBA</string>
+				<string>A4816BCE427BBB44FC36DBBC06F7CAA5</string>
+				<string>7F15988E675E1BF8823CC62BB75D63CA</string>
+				<string>250D66675E0D29FB25F54238282469CF</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>BaseViewController</string>
+			<key>path</key>
+			<string>BaseViewController</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>94A6D1255B5CAB61C867849965EC4FD3</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>ShareToWeiChat.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>950CDD78B52826A882ECB5CA05B6B2F8</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -5192,7 +5173,7 @@
 		<key>956856EC6207FE38D80EDE18002BB918</key>
 		<dict>
 			<key>fileRef</key>
-			<string>9AEFE76C030673C116C82560425A1F6A</string>
+			<string>F638A35AA51D326819DEB5FE9034A144</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -5283,16 +5264,16 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>976EEBA6903CD45DDD492E00AE49F795</key>
+		<key>97F65CDA37CF75E7151B0E689108ECA1</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
+			<string>sourcecode.c.objc</string>
 			<key>path</key>
-			<string>JSExportManager.h</string>
+			<string>XTWebView-dummy.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -5323,19 +5304,6 @@
 					<string>Public</string>
 				</array>
 			</dict>
-		</dict>
-		<key>99171EBD96E7641C038C9900B6F9114C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>JSExportManager.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>993A14CDBF87CCF58DFA01DBBFC47B1F</key>
 		<dict>
@@ -5393,6 +5361,17 @@
 				</array>
 			</dict>
 		</dict>
+		<key>9A04D711B7DB11D729E2DBACC25F34D7</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>weixin@2x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>9A6B415D815011638172BF345E20149F</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -5405,19 +5384,6 @@
 			<string>KWBeSubclassOfClassMatcher.m</string>
 			<key>path</key>
 			<string>Classes/Matchers/KWBeSubclassOfClassMatcher.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9AEFE76C030673C116C82560425A1F6A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>JSExportManager+JSOpenNewWindow.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -5578,6 +5544,19 @@
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
 		</dict>
+		<key>9E05B3B74C1CA71747AE5826D5CEE6BA</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>Alipay.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>9E4E1FBA4DC726399EB7C2CD3C9BCAD1</key>
 		<dict>
 			<key>fileRef</key>
@@ -5637,6 +5616,21 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>9FD407517214E35D1ADF9C2974702CAB</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>B70D96CC3AE007915736BB19CA348506</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>XTWebView</string>
+			<key>path</key>
+			<string>XTWebView</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>A00EDF3C807148AEE9BB3C3AA4F0A093</key>
 		<dict>
 			<key>fileRef</key>
@@ -5650,19 +5644,6 @@
 					<string>Public</string>
 				</array>
 			</dict>
-		</dict>
-		<key>A057DC1D24D3467150585D71733624A8</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>ShareToWeiChat.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>A084801153A79AD44169AA765FC25BA0</key>
 		<dict>
@@ -5742,9 +5723,35 @@
 		<key>A405849BF324E866F27911A64F2D8BD4</key>
 		<dict>
 			<key>fileRef</key>
-			<string>1A13476F49F0148A37946D340DA3380D</string>
+			<string>9A04D711B7DB11D729E2DBACC25F34D7</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+		</dict>
+		<key>A447020B30A290E76A366E34092861FE</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>JSExportManager+JSShareExport.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A4816BCE427BBB44FC36DBBC06F7CAA5</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>NextViewController.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>A5A0CB8523C87A8E7A2BEB29E499B656</key>
 		<dict>
@@ -5764,7 +5771,7 @@
 		<key>A5C36BF172DB04F3ABE0CD5000343D67</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>EDDCDC0542CBB01099B59E3366346D57</string>
+			<string>2D842E3F93C6F3FEA5738567C64AD8F1</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
@@ -5890,6 +5897,17 @@
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
 		</dict>
+		<key>AA57F028A528846030C93BC083459E3B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>pengyouquan.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>AACE9F44B363168C51DB8AD8B813B4FA</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -5908,7 +5926,7 @@
 		<key>AB104E6680FA45D3378A378A22A35165</key>
 		<dict>
 			<key>fileRef</key>
-			<string>E97CCC7B98E21DC512A35D4A3CB4E0D9</string>
+			<string>133CBA39B0A0CA15D2CE2FB4B1AFE046</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -5955,17 +5973,6 @@
 					<string>Public</string>
 				</array>
 			</dict>
-		</dict>
-		<key>AE55B87E55D236CD8211C02906D91ADD</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>pengyouquan.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>AFA3222899671AC00736C1A6081AD98E</key>
 		<dict>
@@ -6033,19 +6040,6 @@
 				<key>COMPILER_FLAGS</key>
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
-		</dict>
-		<key>B0A4FC2F01510C08018AE41AAAD9896D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>ShareToQQZone.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>B0C1958E443C94DA8BA7607C6188A372</key>
 		<dict>
@@ -6211,6 +6205,26 @@
 			<string>KWMock.m</string>
 			<key>path</key>
 			<string>Classes/Mocking/KWMock.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B70D96CC3AE007915736BB19CA348506</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>84B0073C7855D96F8654CE9B85180AFB</string>
+				<string>949595056358808659987B31AB1F0421</string>
+				<string>65604FA529CE35610D3916049EFC1EAD</string>
+				<string>8D4FEEF21AE400DA5B8CF0A0F7E6BE93</string>
+				<string>3915A8B57B59C424ADB061BAB5C7B473</string>
+				<string>388F34D824748867E2F7FF39AE29EF09</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Classes</string>
+			<key>path</key>
+			<string>Classes</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -6481,7 +6495,7 @@
 		<key>BDD07DA24BFFE58139102D36E82311F9</key>
 		<dict>
 			<key>fileRef</key>
-			<string>B0A4FC2F01510C08018AE41AAAD9896D</string>
+			<string>C4C413027F2FD553484A41E5D3ED8C3B</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -6491,28 +6505,6 @@
 					<string>Public</string>
 				</array>
 			</dict>
-		</dict>
-		<key>BE4BEC8DB10289C49535ED876454B83C</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>976EEBA6903CD45DDD492E00AE49F795</string>
-				<string>99171EBD96E7641C038C9900B6F9114C</string>
-				<string>5C1CE289DC1D8A89E71DC7538AEA11C9</string>
-				<string>9AEFE76C030673C116C82560425A1F6A</string>
-				<string>3B681A5CE2ACFEC6601797DF0F1AAB08</string>
-				<string>F5E17B09ADD9765463CF815E00523839</string>
-				<string>2CED4D9290C0E678278A1DA13D175B7D</string>
-				<string>6A02C14A2BE2D0902D7B5FA9C14C5062</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Manager</string>
-			<key>path</key>
-			<string>Manager</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>BE8ABD7B2B956729C854B3ED6840E026</key>
 		<dict>
@@ -6592,7 +6584,7 @@
 		<key>BFC04503DAE2500DDCA27B7E3860FCF4</key>
 		<dict>
 			<key>fileRef</key>
-			<string>6A02C14A2BE2D0902D7B5FA9C14C5062</string>
+			<string>8503D4C7AF92AADB9E82B639AF8BE1E8</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -6742,6 +6734,19 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>C4C413027F2FD553484A41E5D3ED8C3B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>ShareToQQZone.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>C54B75F41407743C32FF56DE8C932253</key>
 		<dict>
 			<key>fileRef</key>
@@ -6880,6 +6885,19 @@
 				</array>
 			</dict>
 		</dict>
+		<key>C925DC3CF36EF850B94E4207868A3796</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>ShareToQQ.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>C94C94455B9EF5AE063B6412590254F3</key>
 		<dict>
 			<key>fileRef</key>
@@ -6943,7 +6961,7 @@
 		<key>CA8B9CBB64EB48B5268FC04D732262F1</key>
 		<dict>
 			<key>fileRef</key>
-			<string>5B92A9D0B31592119036903D83806282</string>
+			<string>250D66675E0D29FB25F54238282469CF</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -6960,10 +6978,23 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>CB15EB555E44AFBE767D3F9A278486F0</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>1FACC89CC12C166CF8CDC7E98161B1AB</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Resources</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>CB31BF20345BDB907E3529C02EA6DB4E</key>
 		<dict>
 			<key>fileRef</key>
-			<string>25AE7A88AAB090ACF53FD7BA6717E853</string>
+			<string>2F08184DE86A2C9B20CF7240239E8472</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -7075,7 +7106,7 @@
 		<key>D13B858D122D72C858D2A3D26235CBDD</key>
 		<dict>
 			<key>fileRef</key>
-			<string>EB8BDAD7304D38F77B901D0C9143D950</string>
+			<string>32176B10BC503DBA8911BD85F86AA28A</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -7160,6 +7191,19 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>D37CBC9B7BBC5727866ECBF5DB46942F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>ShareToWeChatfriends.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>D385F9E4054E3863274E1BF0CBB203E2</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -7172,19 +7216,6 @@
 			<string>NSInvocation+OCMAdditions.m</string>
 			<key>path</key>
 			<string>Classes/Core/NSInvocation+OCMAdditions.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D394D2F6E4AA91B215DCD1D61DABB293</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>31CAF14D85EC8FA933A918031CD8BA93</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Resources</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -7287,7 +7318,7 @@
 		<key>D4A15016945B058F00B90A7BB8F7F20E</key>
 		<dict>
 			<key>fileRef</key>
-			<string>12F15FF47A01DAFFA9BC33ED8EADE64A</string>
+			<string>C925DC3CF36EF850B94E4207868A3796</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -7482,19 +7513,16 @@
 				</array>
 			</dict>
 		</dict>
-		<key>DBEB985FFC92D4BF67AEC1A86D87B056</key>
+		<key>DC46A9EDABE28147721C174502F3BBD9</key>
 		<dict>
-			<key>children</key>
-			<array>
-				<string>7F3B1593C06874550A351432AD9CABB2</string>
-				<string>1CA4A1A4F92159C694F4E9F0804ABEAD</string>
-			</array>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Alipay</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
 			<key>path</key>
-			<string>Alipay</string>
+			<string>Alipay.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -7563,7 +7591,7 @@
 		<key>DF8C0D01606EE5B842F549D348F7B275</key>
 		<dict>
 			<key>fileRef</key>
-			<string>AE55B87E55D236CD8211C02906D91ADD</string>
+			<string>AA57F028A528846030C93BC083459E3B</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -7920,19 +7948,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>E97CCC7B98E21DC512A35D4A3CB4E0D9</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>WXAPIManager.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>E9DDFD0AF24DBECC3FC44E3FFB89C3A6</key>
 		<dict>
 			<key>explicitFileType</key>
@@ -8017,16 +8032,16 @@
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
 		</dict>
-		<key>EB8BDAD7304D38F77B901D0C9143D950</key>
+		<key>EC51BCD06F0ABC4330D3629EBB1B8015</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
+			<string>sourcecode.c.objc</string>
 			<key>path</key>
-			<string>XTWebView.h</string>
+			<string>JSExportManager+JSPayExport.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -8184,23 +8199,10 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>EDDCDC0542CBB01099B59E3366346D57</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>XTWebView.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>EDDD72B72BA9AE248324B0994141066D</key>
 		<dict>
 			<key>fileRef</key>
-			<string>88DADE1FBD89BB78DD58EF260627DBB8</string>
+			<string>6500D551AEF429FA241FA7C427ED3BFA</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -8481,6 +8483,17 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>F37635320CD4C64BA755B5F83EDFD626</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>pengyouquan@2x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>F37FE37BB21503E58DB5122C6F0B5DD9</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -8506,19 +8519,6 @@
 			<string>PBXGroup</string>
 			<key>name</key>
 			<string>Resources</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F440296DC2788C85BF515A0F56C51980</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>XTWebView.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -8599,7 +8599,7 @@
 			<key>sourceTree</key>
 			<string>DEVELOPER_DIR</string>
 		</dict>
-		<key>F5E17B09ADD9765463CF815E00523839</key>
+		<key>F638A35AA51D326819DEB5FE9034A144</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -8608,7 +8608,7 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>path</key>
-			<string>JSExportManager+JSPayExport.m</string>
+			<string>JSExportManager+JSOpenNewWindow.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -8665,32 +8665,6 @@
 			<string>text.plist.xml</string>
 			<key>path</key>
 			<string>Pods-XTWebView_Example-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F7FE08DEFB142D02CB41C4FCA859028E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>ShareToQQZone.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F8559F0CE7D9BA84A548C58275A044E9</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>WechatPay.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -8761,7 +8735,7 @@
 		<key>F903F853E5065C11365E698B4746EC21</key>
 		<dict>
 			<key>fileRef</key>
-			<string>99171EBD96E7641C038C9900B6F9114C</string>
+			<string>676FE32C6A1E45493D7494EA033AC601</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -8780,6 +8754,19 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>FA062D9CD2DC9EBE3236050E3A7EB8F2</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>JSExportManager+JSOpenNewWindow.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>FABCD2CBBE22DCAB7CACCA457FE11824</key>
 		<dict>
 			<key>fileRef</key>
@@ -8794,6 +8781,19 @@
 				</array>
 			</dict>
 		</dict>
+		<key>FB7EF09CF8D96752E46AF19F13619C3F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>WechatPay.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>FC214077677D4F02E03C6C85F774E028</key>
 		<dict>
 			<key>fileRef</key>
@@ -8804,7 +8804,7 @@
 		<key>FC7166CAFCBBE4C03745D9672862A847</key>
 		<dict>
 			<key>fileRef</key>
-			<string>63AE10220D87D524D6CBF4CE17CD9953</string>
+			<string>058267BD822E3CD1D6A6C8430BAA9BBA</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -8929,7 +8929,7 @@
 		<key>FF34EAC6E8054566894C9163CCC93951</key>
 		<dict>
 			<key>fileRef</key>
-			<string>F8559F0CE7D9BA84A548C58275A044E9</string>
+			<string>FB7EF09CF8D96752E46AF19F13619C3F</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
